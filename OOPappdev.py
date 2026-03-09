@@ -2,7 +2,7 @@ from datetime import datetime
 
 class lostandfound:
     def __init__(self):
-        self.items=[]
+        self.items = []
         
     def genID(self):
         while True:
