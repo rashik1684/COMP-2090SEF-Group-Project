@@ -1,1 +1,0 @@
-This is a virtual lost and found application created by making use of objected oriented programming. It consists of the class lostandfound consisting of several objects that have attributes such as id, type, description, location, contact, date and status. The code includes functions that generate ID, report the item, and claims items.
