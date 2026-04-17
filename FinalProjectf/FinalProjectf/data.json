@@ -1,0 +1,137 @@
+[
+  {
+    "id": 425680,
+    "description": "phone",
+    "location": "uni",
+    "contact": "44444444",
+    "date": "2026-04-17 09:52:37",
+    "status": "claimed",
+    "type": "lost"
+  },
+  {
+    "id": 755147,
+    "description": "phone",
+    "location": "uni",
+    "contact": "44444444",
+    "date": "2026-04-17 09:52:37",
+    "status": "claimed",
+    "type": "found"
+  },
+  {
+    "id": 965272,
+    "description": "Notebook",
+    "location": "Bathroom",
+    "contact": "34353454",
+    "date": "2026-04-17 09:52:37",
+    "status": "claimed",
+    "type": "lost"
+  },
+  {
+    "id": 417433,
+    "description": "Black Hoodie",
+    "location": "JCC 7/F",
+    "contact": "9994 3243",
+    "date": "2026-04-17 09:53:38",
+    "status": "claimed",
+    "type": "lost"
+  },
+  {
+    "id": 149298,
+    "description": "Black Hoodie",
+    "location": "JCC 7/F",
+    "contact": "9994 3243",
+    "date": "2026-04-17 09:55:01",
+    "status": "claimed",
+    "type": "lost"
+  },
+  {
+    "id": 523332,
+    "description": "Black Pen",
+    "location": "JCC 3/F",
+    "contact": "9994 3243",
+    "date": "2026-04-17 09:55:15",
+    "status": "pending",
+    "type": "lost"
+  },
+  {
+    "id": 291481,
+    "description": "Airpods Pro",
+    "location": "MC 2/F",
+    "contact": "4930 4342",
+    "date": "2026-04-17 09:55:33",
+    "status": "pending",
+    "type": "lost"
+  },
+  {
+    "id": 456673,
+    "description": "Pink Water Bottle",
+    "location": "IOH 3/F",
+    "contact": "4329 8434",
+    "date": "2026-04-17 09:55:49",
+    "status": "pending",
+    "type": "lost"
+  },
+  {
+    "id": 183947,
+    "description": "Mousepad",
+    "location": "MC G/F",
+    "contact": "4930 3490",
+    "date": "2026-04-17 09:57:09",
+    "status": "pending",
+    "type": "found"
+  },
+  {
+    "id": 806437,
+    "description": "Keys ",
+    "location": "JCC 1/F",
+    "contact": "4324 0845",
+    "date": "2026-04-17 09:57:44",
+    "status": "pending",
+    "type": "found"
+  },
+  {
+    "id": 242711,
+    "description": "Nike Shoes",
+    "location": "Agile Sports Hall",
+    "contact": "4324 0841",
+    "date": "2026-04-17 09:57:58",
+    "status": "claimed",
+    "type": "found"
+  },
+  {
+    "id": 886788,
+    "description": "iPad Pro ",
+    "location": "IOH 5/F",
+    "contact": "9941 7573",
+    "date": "2026-04-17 09:58:48",
+    "status": "claimed",
+    "type": "found"
+  },
+  {
+    "id": 372281,
+    "description": "iPad Pro ",
+    "location": "IOH 5/F",
+    "contact": "9941 7573",
+    "date": "2026-04-17 09:59:02",
+    "status": "pending",
+    "type": "found"
+  },
+  {
+    "id": 439750,
+    "description": "GUCCI Wallet",
+    "location": "JCC 5/F",
+    "contact": "4320 4324",
+    "date": "2026-04-17 10:10:39",
+    "status": "pending",
+    "type": "lost"
+  },
+  {
+    "id": 304614,
+    "description": "Logitech Wireless Mouse",
+    "location": "MC 4/F",
+    "contact": "4239 5422",
+    "date": "2026-04-17 10:11:20",
+    "status": "pending",
+    "type": "found"
+  }
+]

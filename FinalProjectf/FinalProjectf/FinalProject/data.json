@@ -1,0 +1,29 @@
+[
+  {
+    "id": 425680,
+    "description": "phone",
+    "location": "uni",
+    "contact": "44444444",
+    "date": "2026-04-17 01:46:54",
+    "status": "pending",
+    "type": "lost"
+  },
+  {
+    "id": 755147,
+    "description": "phone",
+    "location": "uni",
+    "contact": "44444444",
+    "date": "2026-04-17 01:46:54",
+    "status": "pending",
+    "type": "found"
+  },
+  {
+    "id": 965272,
+    "description": "Notebook",
+    "location": "Bathroom",
+    "contact": "34353454",
+    "date": "2026-04-17 01:47:12",
+    "status": "claimed",
+    "type": "lost"
+  }
+]
